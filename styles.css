@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td {
+    vertical-align: top;
+    padding: 10px;
+  }
+  .col-izquierda {
+    width: 35%;
+    background-color: #1c1d20;
+  }
+  .col-derecha {
+    width: 65%;
+    background-color: #dadada;
+  }
+
+  h3 {
+    color: #dadada;
+  }
+
+  h4 { 
+    color: black;
+  }
+
+  li {
+    font-size: small; font-size: smaller; font-size: medium;
+  }
